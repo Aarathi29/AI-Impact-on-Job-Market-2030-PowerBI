@@ -2,6 +2,7 @@
 An interactive Power BI dashboard built using the AI Impact on Job Market in 2030 dataset to analyze employment trends, AI adoption, industry impact, salary insights, and future workforce predictions.
 
  📊 AI Impact on Job Market in 2030 - Power BI Dashboard
+ 
  📌 Project Overview
 This project presents an interactive Power BI dashboard built using the AI Impact on Job Market in 2030 dataset. The dashboard provides insights into how Artificial Intelligence is expected to influence employment, industries, salaries, job roles, and workforce trends.
 
